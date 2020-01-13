@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random; 
 public class Game{
 
-    public static String [] board = new String []{"1","2","3","4","5","6","7","8","9"};
+    public static String [] board = new String []{" "," "," "," "," "," "," "," "," "};
     public static Scanner userInput;
     public static String playerSymbol; 
     public static String computerSymbol; 
